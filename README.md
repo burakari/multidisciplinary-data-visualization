@@ -1,17 +1,45 @@
 # Multidisciplinary Data Visualization with Python
 
-This project explores how engineering, law, and data science intersect through data-driven visualization.
+This project visualizes how engineering, law, and data science converge into a unified analytical mindset.
+
+It represents a multidisciplinary journey translated into a data-driven visual narrative using Python.
+
+---
 
 ## Project Overview
 
-This notebook generates a WordCloud visualization representing the integration of multidisciplinary domains into a unified data mindset.
+The Jupyter notebook generates a customized WordCloud visualization highlighting key domains:
 
-## Tools Used
+- Mechanical Engineering  
+- Aerospace Engineering  
+- Law & Legal Reasoning  
+- Data Science  
+- Machine Learning  
+- Systems Thinking  
+- Analytics & Modeling  
+
+The goal is to demonstrate how seemingly different disciplines connect through structured thinking and data.
+
+---
+
+## Output
+
+![Visualization](output.png)
+
+---
+
+## Tech Stack
 
 - Python
 - WordCloud
 - Matplotlib
+- Jupyter Notebook
 
-## Author
+---
 
-Burak ARI
+## How to Run
+
+1. Clone the repository  
+2. Install dependencies:
+   ```bash
+   pip install wordcloud matplotlib
