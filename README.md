@@ -1,34 +1,39 @@
-# Multidisciplinary Data Visualization with Python
+# 🐝 Multidisciplinary Data Visualization with Python
 
-This project visualizes how engineering, law, and data science converge into a unified analytical mindset.
+A Python-based data visualization project exploring how engineering, legal reasoning, and data science can be represented through structured analytical visualization.
 
-It represents a multidisciplinary journey translated into a data-driven visual narrative using Python.
+This project demonstrates the use of text processing and visualization techniques to create a domain-focused WordCloud representation.
 
----
-
-## Project Overview
-
-The Jupyter notebook generates a customized WordCloud visualization highlighting key domains:
-
-- Mechanical Engineering  
-- Aerospace Engineering  
-- Law & Legal Reasoning  
-- Data Science  
-- Machine Learning  
-- Systems Thinking  
-- Analytics & Modeling  
-
-The goal is to demonstrate how seemingly different disciplines connect through structured thinking and data.
+🔗 Part of my AI & Data portfolio:
+https://burakari.com
 
 ---
 
-## Output
+## 📌 Project Objective
+
+The goal of this project is to visualize the intersection of multiple disciplines through structured keyword mapping and graphical representation.
+
+It reflects how different domains connect under a data-driven and systems-oriented mindset.
+
+---
+
+## 🧠 Methodology
+
+- Defined domain-specific keyword sets
+- Structured textual data
+- Generated a customized WordCloud visualization
+- Styled and rendered output using Matplotlib
+- Ensured reproducibility within a Jupyter Notebook environment
+
+---
+
+## 📊 Output
 
 ![Visualization](output.png)
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - Python
 - WordCloud
@@ -37,9 +42,9 @@ The goal is to demonstrate how seemingly different disciplines connect through s
 
 ---
 
-## How to Run
+## ▶️ How to Run
 
-1. Clone the repository  
-2. Install dependencies:
-   ```bash
-   pip install wordcloud matplotlib
+1. Clone the repository:
+
+```bash
+git clone https://github.com/burakari/multidisciplinary-data-visualization.git
